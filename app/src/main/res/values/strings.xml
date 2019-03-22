@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Ejercicio_Labo3</string>
+    <string name="text_name">Nombre</string>
+    <string name="text_lastname">Apellido</string>
+    <string name="text_email">Correo</string>
+    <string name="text_universidad">Universidad</string>
+
 </resources>
